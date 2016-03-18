@@ -1,4 +1,6 @@
 # Swarm 1.x.x
+
+[![Join the chat at https://gitter.im/Littlelies/swarm](https://badges.gitter.im/Littlelies/swarm.svg)](https://gitter.im/Littlelies/swarm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 _reactive data sync: replicated model for your web/mobile app_
 
 __proceed with caution: 1.0 is not entirely stable!__
